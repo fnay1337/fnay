@@ -1,0 +1,43 @@
+h1,h2,h3,h4,h5,h6{
+    font-family: Arial;
+}
+h1{
+    text-align: center;
+}
+img{
+    height: 50px;
+    width: 50px;
+}
+table{
+    border: 2px solid black;
+}
+.cv_img{
+    text-align: center;
+}
+.left{
+    text-align: center;
+}
+ul{
+    list-style-type: none;
+}
+.main{
+    box-shadow: 10px 5px 5px rgba(14, 14, 14,0.4);
+}
+.sad{
+    height: 100px;
+}   
+#right{
+    width: 500px;
+    box-shadow: 10px 5px 5px rgba(14, 14, 14,0.4);
+    margin-left: 250px;
+    margin-top: -744px;
+}
+.rightsidetext{
+    text-align: start;
+}
+.sadf{
+    height: 91px;
+} 
+h6{
+    font-size: medium;
+}
